@@ -4,6 +4,8 @@
 ## Introduction
 
 1. I will begin with a quick theme song. My first cue to begin speaking will be after, at most, 10 seconds of the song.
+
+As of now my theme song can be found [here](http://www.freesound.org/people/madamelabaronne/sounds/394593/)
 1. Give an introduction to who I am and what this podcast is for. This may include why I am at Tech, my major, etc.
 
 ## What is a T-Shaped Student
