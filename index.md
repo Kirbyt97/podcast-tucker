@@ -7,6 +7,7 @@
 
 ## Purpose
 * Inform potential new students of Tech's VT-Shaped Student idea, with emphasis placed on the 'T'
+* To persuade Liberal Arts students to come to Tech.
 
 ## Structure
 * My idea for this podcast is to structure it off of the informative lectures the school gives future students. 
@@ -43,17 +44,27 @@ This music can be found [here](https://archive.org/details/JosephinWishfulThinki
 * I am going to spend most of my time talking about what I am doing to become a true T-Shaped Student
     * Discuss my dual diploma in Finance and English
     * Talk about how this will help me in a career 'unrelated' to English 
-        *     Specifically how this will set me apart from other Finance majors and expand my knowledge
+        *      Specifically how this will set me apart from other Finance majors and expand my knowledge
+* This section is also going to be around 800 words, or 4.5 minutes.
 
 ## So How do You Become T-Shaped?
 * As an English major how do you become T-Shaped?
     * Taking classes in other diciplines    
 * Dont be afraid to use technology. It is a good tool that can intimidate those who are not familiar with it, like Englsih majors
     * Tech sounds in the background that can be found [here](https://archive.org/details/DialUp) 
+*    This section will be around 250 words, or around 1 minute.  
     
     
 ## Closing
 * Quick wrap-up of everything I have talked about
 * Credits and my name again
 * Repeate the same theme song for the same length 
+    * Link can be found above 
 * This will be about 20-30 seconds
+
+## My Notes
+* My section times are subject to change as I see fit.
+    * Times will change based on what information I find most important when pulling everything together and how in depth I want the examples to go.
+* I need to add more 'creative' elements to this podcast
+    * As of right now it is more informative and persuasive than anything else. I like the direction the podcast seems to be going in, but I need to find a way to make it more upbeat in the final mix.
+    * My current idea to make the podcast more creative is to use the angle of an English major working in a technology firm. This might mention how English majors take classes like this to learn how to make digital media and websites etc.      
