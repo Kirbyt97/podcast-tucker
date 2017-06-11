@@ -1,6 +1,18 @@
 
 # My T-Shaped Student Podcast Outline
 
+
+## Audience
+* Students who are considering Tech as their future college
+
+## Purpose
+* Inform potential new students of Tech's VT-Shaped Student idea, with emphasis placed on the 'T'
+
+## Structure
+* My idea for this podcast is to structure it off of the informative lectures the school gives future students. 
+    * I think this will be effective because of the type of information I am giving the audience. I am letting them know about Tech's motives in an informative way with personal examples.
+* My main way of communicating the information will be to use myself as the main example. I feel like this is effective because I am a diverse student and I believe people respond the most to personal examples.
+
 ## Introduction
 
 * I will begin with a quick theme song. My first cue to begin speaking will be after, at most, 10-15 seconds of the song.
@@ -28,9 +40,20 @@ This music can be found [here](https://archive.org/details/JosephinWishfulThinki
 ## A T-Shaped Student at Tech
 * I will inform the audience of Tech's idea of a VT-Shaped student.
 * I will go off of the idea that a T-Shaped Student is becoming an industry standard. This idea is not unique to VT, but Tech takes it to a new level by adding in the 'V.'
+* I am going to spend most of my time talking about what I am doing to become a true T-Shaped Student
+    * Discuss my dual diploma in Finance and English
+    * Talk about how this will help me in a career 'unrelated' to English 
+        *     Specifically how this will set me apart from other Finance majors and expand my knowledge
 
 ## So How do You Become T-Shaped?
 * As an English major how do you become T-Shaped?
     * Taking classes in other diciplines    
 * Dont be afraid to use technology. It is a good tool that can intimidate those who are not familiar with it, like Englsih majors
     * Tech sounds in the background that can be found [here](https://archive.org/details/DialUp) 
+    
+    
+## Closing
+* Quick wrap-up of everything I have talked about
+* Credits and my name again
+* Repeate the same theme song for the same length 
+* This will be about 20-30 seconds
