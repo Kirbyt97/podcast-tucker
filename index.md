@@ -32,3 +32,5 @@ This music can be found [here](https://archive.org/details/JosephinWishfulThinki
 ## So How do You Become T-Shaped?
 * As an English major how do you become T-Shaped?
     * Taking classes in other diciplines    
+* Dont be afraid to use technology. It is a good tool that can intimidate those who are not familiar with it, like Englsih majors
+    * Tech sounds in the background that can be found [here](https://archive.org/details/DialUp) 
